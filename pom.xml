@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.dremio</groupId>
-  <version>3.2.4-201906051751050278-1bcce62</version>
+  <version>3.2.4</version>
   <artifactId>dremio-dac-ui</artifactId>
   <packaging>jar</packaging>
   <name>Analyst Center - UI</name>
